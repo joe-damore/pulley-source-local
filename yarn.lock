@@ -332,7 +332,7 @@ process-nextick-args@^2.0.0, process-nextick-args@~2.0.0:
 
 pulley-core@joe-damore/pulley-core#develop:
   version "0.1.0"
-  resolved "https://codeload.github.com/joe-damore/pulley-core/tar.gz/7cd714b8f4ea2febfa095e3619fd47eb64ffafb3"
+  resolved "https://codeload.github.com/joe-damore/pulley-core/tar.gz/b9f03c8e3f877f0bb600325d52d4d550892e2770"
   dependencies:
     vinyl "^2.2.0"
     vinyl-fs "^3.0.3"
