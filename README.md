@@ -2,7 +2,7 @@
 Pulley source for local files
 
 ## Overview
-The Pulley `local` source allows users to fetch files from a directory on the user's filesystem.
+The Pulley `local` source allows users to fetch files from their local filesystem.
 
 ## Options
-* **src** - _Required_. Glob of source files to fetch.
+* **src** - _Required_. Glob of source files to fetch. Relative to the directory from which Pulley is being run.
